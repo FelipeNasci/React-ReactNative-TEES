@@ -1,0 +1,17 @@
+.container-entity {
+  width: 700px;
+  background-color: rgb(218, 173, 255);
+  color: rgb(10, 12, 99);
+  border-radius: 10px;
+
+}
+
+#data {
+  text-decoration: none;
+  margin: 4%;
+}
+
+.container-entity:hover {
+  background-color: rgb(100, 47, 143);
+  color: white;
+}
