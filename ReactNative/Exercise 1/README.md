@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Get data of [SpaceX API](https://github.com/r-spacex/SpaceX-API) and Show info of rocket launches 
+=======
+Get data of [SpaceX API](https://api.spacexdata.com/v3) and Show info of rocket launches 
+>>>>>>> e24acd91efa0275e13205eba9aad7f656519d16d
 
 ### Screens
 
