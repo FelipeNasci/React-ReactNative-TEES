@@ -1,26 +1,13 @@
-Primeiro Exercício da disciplina de Tópicos Especiais em Engenharia de Software
+Show or hidden info in screen
 
-## `Executar o projeto`
-
-### `Instalando Dependências`
-
-```
-npm install
-```
-
-### `Start no App`
-
-```
-yarn start
-```
-
-## `Teste o App`
+### Test the App
 
 [App](https://wcyir.csb.app/)
 
+
 ### Button Show
-![show](https://github.com/FelipeNasci/appReact/blob/master/Exercise_1/images/show.png?raw=true)
+![show](https://github.com/FelipeNasci/React-ReactNative-TEES/blob/master/ReactJs/Exercise_1/images/show.png?raw=true)
 
 ### Button Hidden
-![hidden](https://github.com/FelipeNasci/appReact/blob/master/Exercise_1/images/hidden.png?raw=true)
+![hidden](https://github.com/FelipeNasci/React-ReactNative-TEES/blob/master/ReactJs/Exercise_1/images/hidden.png?raw=true)
 
